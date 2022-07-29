@@ -1,3 +1,3 @@
 # Book Shop
 
-Using Pythn Django, HTML, CSS, Javascript
+Using Python Django, HTML, CSS, Javascript
